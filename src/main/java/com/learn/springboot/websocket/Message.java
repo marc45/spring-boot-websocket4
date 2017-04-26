@@ -2,6 +2,7 @@ package com.learn.springboot.websocket;
 
 /**
  * Created by liutao on 17/4/26.
+ * 
  */
 public class Message {
 	@Override
